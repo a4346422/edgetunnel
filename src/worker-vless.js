@@ -6,7 +6,7 @@ const userID = '1ad51939-73cf-4f63-8e1d-cd8ab22fee5b';
 
 // 1. 如果这个你不填写，并且你客户端的 IP 不是 China IP，那么就自动取你的客户端IP。有一定概率会失败。
 // 2. 如果你指定，忽略一切条件，用你指定的IP。
-let proxyIP = '';
+//let proxyIP = '';
 
 // The list of domains covered by Cloudflare's Bringing-Your-Own plan. Manual maintenance required.
 // https://developers.cloudflare.com/byoip/
